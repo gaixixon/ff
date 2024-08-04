@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="gxxfox" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-01/967e54487b8ed1725e81e60e32a6bef3.png" group-title="Iran",IR: 247 Box TV
+https://news.codeautoplaycdn1.workers.dev/?codeby=nd&channel=foxnewschannel
 #EXTINF:-1 tvg-id="" tvg-name="IR: 247 Box TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-01/967e54487b8ed1725e81e60e32a6bef3.png" group-title="Iran",IR: 247 Box TV
 http://myteve.online:8080/7e4b0dbd/1dd755dc3f/297494
 #EXTINF:-1 tvg-id="" tvg-name="IR: 4kurd" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/a8af67c362c8f094b4f9d0bb489f5a84.png" group-title="Iran",IR: 4kurd
