@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="FoxNews" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/b823782b94f98698487bdf4b98c42b3b.png" group-title="FoxNews",Fox News
 https://news.codeautoplaycdn1.workers.dev/?codeby=nd&channel=foxnewschannel
-#EXTINF:-1 tvg-id="" tvg-name="FoxNews" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/b823782b94f98698487bdf4b98c42b3b.png" group-title="FoxNews",ABC News
+#EXTINF:-1 tvg-id="" tvg-name="FoxNews1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/b823782b94f98698487bdf4b98c42b3b.png" group-title="FoxNews1",ABC News
 https://lnc-abc-news.tubi.video/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IR: 247 Box TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-01/967e54487b8ed1725e81e60e32a6bef3.png" group-title="Iran",IR: 247 Box TV
 http://myteve.online:8080/7e4b0dbd/1dd755dc3f/297494
